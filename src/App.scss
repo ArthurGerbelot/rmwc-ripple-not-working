@@ -1,0 +1,6 @@
+@use "@material/theme" with (
+  $primary: red,
+);
+@import '@material/ripple/mdc-ripple';
+@import '@material/button/mdc-button';
+@import '@material/textfield/mdc-text-field';
